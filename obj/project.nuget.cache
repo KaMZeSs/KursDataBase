@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t7mHDWrm3gG9X0ry4N1+wzqxPrtEch6CsXQ/kKK4/sf02ILs5Ff7+TwP/gTGgc7S9bzKK7wwy0Wp2u4QFAXQgg==",
+  "success": true,
+  "projectFilePath": "E:\\Repos\\KursDataBase\\KursDataBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladd\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
+    "C:\\Users\\vladd\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

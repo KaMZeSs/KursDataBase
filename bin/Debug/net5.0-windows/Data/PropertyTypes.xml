@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Property>
+    <name>Частная</name>
+    <id>0</id>
+  </Property>
+  <Property>
+    <name>Коллективная</name>
+    <id>1</id>
+  </Property>
+  <Property>
+    <name>Государственная</name>
+    <id>2</id>
+  </Property>
+  <Property>
+    <name>Муниципальная</name>
+    <id>3</id>
+  </Property>
+</ArrayOfProperty>
